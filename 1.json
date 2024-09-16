@@ -1,0 +1,26 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain_suffix": [
+        "steamcontent.com",
+        "steamserver.net",
+        "test.steampowered.com",
+        "rmbgame.net",
+        "api.steampowered.com",
+        "YuanShen.exe",
+        "EpicWebHelper.exe",
+        "ea.com",
+        "tnt-ea.com",
+        "xbox-live.com",
+        "steampowered.com",
+        "xboxlive.com",
+        "kaspersky-labs.com",
+        "nvidia.com",
+        "ubi.com",
+        "gamedownloads-rockstargames-com.akamaized.net"
+      ],
+      "domain_keyword": "misakaf"
+    }
+  ]
+}
