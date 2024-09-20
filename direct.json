@@ -1,0 +1,28 @@
+﻿{
+    "version": 1,
+    "rules": [
+        {
+            "domain": [
+                "steamcdn-a.akamaihd.net"
+            ]
+        },
+        {
+            "domain_suffix": [
+                ".bing.com",
+                ".microsoft.com",
+                ".steamserver.net"
+            ]
+        },
+        {
+            "domain_keyword": [
+                "misakaf",
+                "emby"
+            ]
+        },
+        {
+            "ip_cidr": [
+                
+            ]
+        }
+    ]
+}
